@@ -4,3 +4,4 @@ torch
 numpy
 joblib
 gunicorn
+scikit-learn
